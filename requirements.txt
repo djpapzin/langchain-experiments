@@ -1,8 +1,21 @@
 python-dotenv
 langchain
 openai
+<<<<<<< Updated upstream
 slack-sdk 
 slack-bolt 
 Flask
 gunicorn
 urllib3<2
+=======
+google-api-python-client # Google API
+google-search-results # SerpAPI
+youtube-transcript-api
+chromadb
+tiktoken
+faiss-cpu
+wikipedia
+flask
+slack-sdk 
+slack-bolt
+>>>>>>> Stashed changes
